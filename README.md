@@ -2,7 +2,7 @@
 
 ## 项目概述
 
-一个完整的入侵昆虫识别系统，结合了YOLOv5s作为detector和MobileNetV3作为idfier。本项目作为本科毕设尚且可以。
+一个完整的入侵昆虫识别系统，结合了YOLOv5s作为detector和MobileNetV3作为idfier。本项目作为本科毕设尚且可以。MobileNetV3的训练参考了DOI:10.13733/j.jcam.issn.2095 5553.2024.07.033这篇文章
 
 ## 快速开始
 
